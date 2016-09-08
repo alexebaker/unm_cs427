@@ -1,0 +1,3 @@
+[submodule "assignments/unm_cs427_chatbot"]
+	path = assignments/unm_cs427_chatbot
+	url = git@github.com:alexebaker/unm_cs427_chatbot.git
